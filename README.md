@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Tribute Project
 
-> A basic "Hello world" page that illustrate the use of tools and best practices for future Microverse projects.
+> This project is an upgrade to the hello microverse project, for upgrading HTML and CSS skills.
 
 Additional description about the project and its features.
 
